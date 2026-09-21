@@ -54,18 +54,6 @@ The prototype demonstrates basic sensor acquisition and safety-state logic for:
 * CRITICAL STOP
 * SENSOR ERROR
 
-## Repository Structure
-```text
-MISTRA/
-├── README.md
-│
-├── simulation/
-│   └── mistra_safety_node.ino
-│
-└── report/
-    └── MISTRA_Feasibility_Report.pdf
-```
-
 ## Development Status
 **Status: Prototype / In Development**
 Current work includes system architecture, component-level simulation, embedded safety-node development, hardware selection, and prototype planning.
